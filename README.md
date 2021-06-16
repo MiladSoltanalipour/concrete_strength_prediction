@@ -16,8 +16,6 @@ The advantage of this program is that the dates can be picked by a calendar widg
 
 If you are interested in having a deeper look, the source code is available here: [Source code](CSP.py)
 
-Milad Soltanalipour
-
 # License
 
 [MIT](LICENSE)
