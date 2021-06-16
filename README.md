@@ -17,3 +17,7 @@ The advantage of this program is that the dates can be picked by a calendar widg
 If you are interested in having a deeper look, the source code is available here: https://github.com/MiladSoltanalipour/concrete_strength_prediction/blob/d0bdd85f97a461c79ae81ab0dbe028328bccd5d1/CSP.py
 
 Milad Soltanalipour
+
+## License
+
+https://choosealicense.com/licenses/mit/
