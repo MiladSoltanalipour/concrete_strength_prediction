@@ -14,8 +14,6 @@ Mean concrete compressive strength at 28 days, Age of the concrete in days, and 
 
 The advantage of this program is that the dates can be picked by a calendar widget.
 
-![Alt text](CSP_Screen_shot_1.PNG)
-
 ![Alt text](CSP_Screen_shot_2.PNG)
 
 If you are interested in having a deeper look, the source code is available here: [Source code](CSP.py)
