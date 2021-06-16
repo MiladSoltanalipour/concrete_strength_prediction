@@ -8,6 +8,6 @@ Mean concrete compressive strength at 28 days, Age of the concrete in days, and 
 
 The advantage of this program is that the dates can be picked by a calendar widget.
 
-If you are interested to have a deeper look, the source code is available here: https://github.com/MiladSoltanalipour/concrete_strength_prediction/blob/d0bdd85f97a461c79ae81ab0dbe028328bccd5d1/CSP.py
+If you are interested in having a deeper look, the source code is available here: https://github.com/MiladSoltanalipour/concrete_strength_prediction/blob/d0bdd85f97a461c79ae81ab0dbe028328bccd5d1/CSP.py
 
 Milad Soltanalipour
