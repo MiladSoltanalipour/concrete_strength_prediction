@@ -20,6 +20,4 @@ Milad Soltanalipour
 
 # License
 
-[I'm an inline-style link](https://www.google.com)
-
-https://choosealicense.com/licenses/mit/
+[MIT](LICENSE)
