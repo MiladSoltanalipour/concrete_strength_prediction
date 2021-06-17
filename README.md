@@ -4,7 +4,7 @@ Thank you for downloading this program!
 
 # Quick access to the program
 
-To quickly access the executable file, please click here: https://github.com/MiladSoltanalipour/concrete_strength_prediction/releases/tag/v0.1
+To quickly access the executable file, please click here: https://github.com/MiladSoltanalipour/concrete_strength_prediction/releases/tag/V1.0
 
 # Know more
 
