@@ -1,5 +1,3 @@
-# Thank you
-
 Thank you for downloading this program!
 
 # Quick access to the program
