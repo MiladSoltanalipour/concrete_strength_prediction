@@ -6,7 +6,7 @@ If you are busy, please quick access to the executable file: https://github.com/
 
 # Know more
 
-If you are curius to know more about this program, this is for you.
+If you are curious to know more about this program, this is for you.
 
 This program predicts the concrete compressive strength depending on its age.
 
