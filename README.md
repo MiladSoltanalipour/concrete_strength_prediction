@@ -16,7 +16,7 @@ This program has a calendar widget that makes your prediction easy.
 
 ![Alt text](CSP_Screen_shot_2.PNG)
 
-If you like to see how the program is written, I encourage you to check out the source code which is available here: [Source code](CSP.py)
+If you like to see how the program was written, please check out the source code which is available here: [Source code](CSP.py)
 
 Thank you for your time and contribution.
 
