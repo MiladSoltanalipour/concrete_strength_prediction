@@ -6,8 +6,6 @@ If you are busy, please quickly access the executable file here: [Quick access](
 
 # Know more
 
-If you are curious to know more about this program, please read the following descriptions.
-
 This program predicts the concrete compressive strength depending on its age.
 
 It is based on Eurocode-2 Design of Concrete Structures - Part 1-1: General rules and rules for buildings, Clause 3.1.2 part (6). According to this clause, the concrete compressive strength is estimated if the following 3 items are available:
