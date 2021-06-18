@@ -2,19 +2,25 @@ Thank you for downloading this program!
 
 # Quick access to the program
 
-To quickly access the executable file, please click here: https://github.com/MiladSoltanalipour/concrete_strength_prediction/releases/tag/V1.0
+If you are busy, please quick access to the executable file: https://github.com/MiladSoltanalipour/concrete_strength_prediction/releases/tag/V1.0
 
 # Know more
 
-If you want to know about this program, it predicts the concrete compressive strength depending on its age. It is based on Eurocode-2 Design of Concrete Structures - Part 1-1: General rules and rules for buildings, Clause 3.1.2 part (6). The concrete compressive strength is estimated if the following 3 items are available:
+If you are curius to know more about this program, this is for you.
+
+This program predicts the concrete compressive strength depending on its age.
+
+It is based on Eurocode-2 Design of Concrete Structures - Part 1-1: General rules and rules for buildings, Clause 3.1.2 part (6). According to this clause, the concrete compressive strength is estimated if the following 3 items are available:
 
 Mean concrete compressive strength at 28 days, Age of the concrete in days, and Coefficient depending on the cement type.
 
-The advantage of this program is that you can select the dates by a calendar widget.
+This program has a calendar widget that makes your prediction easy.
 
 ![Alt text](CSP_Screen_shot_2.PNG)
 
-If you are interested in having a deeper look at the source code, it is available here: [Source code](CSP.py)
+If you like to see how the program is written, I encourage you to check out the source code which is available here: [Source code](CSP.py)
+
+Thank you for your time and contribution.
 
 # License
 
