@@ -4,7 +4,7 @@ Thank you for downloading this program!
 
 If you are busy, please quickly access the executable file here: [Quick access](https://github.com/MiladSoltanalipour/concrete_strength_prediction/releases/tag/V1.0)
 
-# Know more ...
+# Do you want to know more?
 
 This program predicts the concrete compressive strength depending on its age.
 
