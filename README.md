@@ -10,7 +10,7 @@ If you want to know about this program, it predicts the concrete compressive str
 
 Mean concrete compressive strength at 28 days, Age of the concrete in days, and Coefficient depending on the cement type.
 
-The advantage of this program is that the dates can be picked by a calendar widget.
+The advantage of this program is that you can select the dates by a calendar widget.
 
 ![Alt text](CSP_Screen_shot_2.PNG)
 
